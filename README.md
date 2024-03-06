@@ -1,7 +1,3 @@
-# GEO7630
-TP2 GEO7630
-<!-----
-
 UNIVERSITÉ DU QUÉBEC À MONTRÉAL
 
 Travail pratique #2

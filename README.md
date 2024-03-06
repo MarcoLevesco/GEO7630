@@ -69,3 +69,11 @@ produits au moment de la création de l’application web puisqu’ils nécessit
 Les cartes montrées ci-bas représentent les différents modes d’affichage que nous envisageons pour l’application web. De plus, ces cartes pourront être animées par heure. Finalement, elles seront interactives et afficheront des informations supplémentaires en lien avec le trafic du tronçon (visualisation d’émission de GES - histogramme du trafic, etc.). Nous envisageons aussi d'interpoler à la volée les comptages sur les tronçons qui joignent ensemble les tronçons adjacents aux feux de circulation à l’aide du logiciel d’affiche de carte libre qui sera utilisé.
 
 ![](https://lh7-us.googleusercontent.com/9BmdnJu4VlJSyxF8xUmfBfhxGcstFAgySX_DQ8qmScH7UtGYyWJ6fxMYt4CO1i1EdPbngU-c-DXBEs9pWAfbYRKJSRCjSwMYt2Xp39sczuInXG8XcC9GShbj7uDFrpgatDrU2fNmbAA7QCLucgAM4aU)
+
+![](https://lh7-us.googleusercontent.com/KQBAm0o93ZRmZbgDIBngr5GzPuSxbvBrfTw5feWGyhfyJXCtqfJljnshzMYNt3Z2bK7a0gOB3UDZ1F3atozNP9lFIx5XPcrRIwKz1bi6GH3Mhno8kP8y_NfAEc4lsOW8DeBlOGrW7tx_MT_uTW2nVds)
+
+![](https://lh7-us.googleusercontent.com/W-52RtB_OHA5c6IcCSE2XEy6KzikeOgLG6IPw783ANi7b50N69CfyN810OQkd0tJW03ZUzttwxXEWqc1fLanJjAp7mYOWV9U1DHguYaaLxggZ4jW5MApTi2MQOCY8CcdB8yOp9MLmKw3x7xc6eMzT2c)
+
+![](https://lh7-us.googleusercontent.com/rRz2moAvd9Jt64P6hUBPN7JxD7RRa_bvfKHJOREY918r1O8vhAZXpjthMM2CO3Ztg5MgytaumiSzP0w7g2WMXqgzJrkjC_FqGZVTtaMbRMHkxTAL1uWLLG9X9CC2JNEdZZsxQ6UPbNgGAqQhfRDNPuc)
+
+![](https://lh7-us.googleusercontent.com/88ZG80k5M6UO1K56KUVVOVUeVjet-AZu4tBuvk4IpRkaxK3mZTwEmzMHVJt5iee68XUAKvEREBVox2VyCMqn4G6D87jxcgOci3HNxFRDLVoWiuayaACnd9iD6x_8vheNWouyHBoqkoJQlK_ZN_cCDSs)
